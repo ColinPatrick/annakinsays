@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color: black;
+}
+
+h1, h3 {
+  color: #fdb827;
+}
+
+.starWars {
+  font-family: 'Pathway Gothic One', sans-serif;
+}
